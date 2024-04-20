@@ -1,12 +1,12 @@
 <h1 align="center">Projeto SisCRUD</h1>
 <p align="center"><i>Helyomar Lin</i></p>
 
-
-##  Sobre o projeto
+## Sobre o projeto
 
 Projeto final de semestre, sistema CRUD com PHP
 
 ### Technologias
+
 <p display="inline-block">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5-logo"/>
   <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3-logo"/>
@@ -22,4 +22,5 @@ Projeto final de semestre, sistema CRUD com PHP
 </p>
 
 ## Link do projeto
+
 [SisCRUD](https://github.com/HelyomarLins/SisCRUD--Helyomar)
