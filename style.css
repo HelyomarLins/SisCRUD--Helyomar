@@ -1,0 +1,58 @@
+@import url(./footer.css);
+:root {
+  --cor-de-fundo: #212437;
+  --cor-de-menu: #2a2d47;
+  --cor-de-botao: #ff4b57;
+  --cor-de-linha: #f38260;
+  --cor-de-label: #282a41;
+  --cor-de-cards: #2b2e41;
+  --cor-de-letras: #e05e66;
+  --cor-de-backHover: #ff4b54;
+}
+html{
+  scroll-behavior: smooth;
+}
+body {
+  background-image: black;
+ 
+}
+.btn.btn-primary.custom-buttom {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(150, 138, 138, 0.274);
+  border: none;
+  padding: 0 3%;
+  font-size: 3vw;
+  border-radius: 5rem;
+}
+.navbar .list{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  gap: 2rem;
+}
+.navbar .list li a {
+  color: #ff8154;
+  text-decoration: none;
+  font-size: 1.2rem;
+  position: relative;
+  text-decoration: none;
+}
+.list li a::before {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background-color: #ff8154;
+  transition: width 0.3s ease;
+}
+
+.list li a:hover::before {
+  width: 100%;
+}
+
+
