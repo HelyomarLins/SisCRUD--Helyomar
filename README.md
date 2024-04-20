@@ -22,4 +22,4 @@ Projeto final de semestre, sistema CRUD com PHP
 </p>
 
 ## Link do projeto
-[SisCRUD](https://helyomarlins.github.io/ChallengeAlura-Portifolio-HelyomarLins/)
+[SisCRUD](https://github.com/HelyomarLins/SisCRUD--Helyomar)
